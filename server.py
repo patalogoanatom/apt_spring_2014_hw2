@@ -7,6 +7,7 @@ def index():
     name = 'APT Spring 2015'
     participants = [
        'German Ilyin',
+       'Temirlan Shagirov'
     ]
     return template("""
     <h1>HW2 for {{course}}</h1>
