@@ -57,6 +57,7 @@ We will be working on simple web project. It is deployed and available on <https
  * Roman Khabirov
  * Temirlan Shagirov
  * Edige Radolda
+ * Serik Begadil
  * 10 Drake
  * 9 Katy Perry
  * 8 Obama
