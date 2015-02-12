@@ -9,6 +9,7 @@ def index():
         'Roman Khabirov',
         'German Ilyin',
         'Temirlan Shagirov',
+        'Edige Radolda',
         "#20 Robert Pattinson",
         "#19 Kesha",
         "#18 Megan Fox",

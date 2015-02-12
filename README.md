@@ -56,6 +56,7 @@ We will be working on simple web project. It is deployed and available on <https
  * German Ilyin
  * Roman Khabirov
  * Temirlan Shagirov
+ * Edige Radolda
  * 10 Drake
  * 9 Katy Perry
  * 8 Obama
