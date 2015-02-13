@@ -11,6 +11,7 @@ def index():
         'Temirlan Shagirov',
         'Edige Radolda',
         'Serik Begadil',
+	'Magzhan Sarzhan',
         "#20 Robert Pattinson",
         "#19 Kesha",
         "#18 Megan Fox",
